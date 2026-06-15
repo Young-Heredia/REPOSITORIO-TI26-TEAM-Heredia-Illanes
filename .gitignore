@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos procesados y modelos entrenados (se regeneran con los notebooks)
+data/processed/*.csv
+data/processed/*.joblib
+!data/processed/.gitkeep
