@@ -221,3 +221,5 @@ __marimo__/
 data/processed/*.csv
 data/processed/*.joblib
 !data/processed/.gitkeep
+
+REPOSITORIO-TI26-TEAM-Heredia-Illanes/docs/
