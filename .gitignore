@@ -218,8 +218,8 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Datos procesados y modelos entrenados (se regeneran con los notebooks)
-data/processed/*.csv
-data/processed/*.joblib
-!data/processed/.gitkeep
+#data/processed/*.csv
+#data/processed/*.joblib
+#!data/processed/.gitkeep
 
-REPOSITORIO-TI26-TEAM-Heredia-Illanes/docs/
+#REPOSITORIO-TI26-TEAM-Heredia-Illanes/docs/
